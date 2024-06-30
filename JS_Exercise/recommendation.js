@@ -1,3 +1,4 @@
+// Initialize variables
 let familySize = 4;
 let plannedDistanceToDrive = 199;
 
