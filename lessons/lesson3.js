@@ -12,7 +12,7 @@ console.log(customer["lastName"])
 customer['firstName'] = "Papa"
 customer.lastName = "Jothimani"
 console.log(customer.firstName +" "+ customer['lastName']) // Concatenation
-console.log(`${customer.firstName} ${customer['lastName']}`) // Intepolation
+console.log(`${customer.firstName} ${customer['lastName']}`) // Interpolation
 
 // arrays
 var cars = ["Swift", "Toyota", "Maruti"]

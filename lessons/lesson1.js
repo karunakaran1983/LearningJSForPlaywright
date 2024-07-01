@@ -14,7 +14,7 @@ console.log(age)
 age = 10
 console.log(age)
 
-// Contants
+// Constants
 const occupation = "Carpenter"
 // occupation = "nurse" // TypeError: Assignment to constant variable.
 console.log(occupation)

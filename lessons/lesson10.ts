@@ -9,7 +9,7 @@ var employeeFirstName:string = "Tom" // datatype can be added to the variable na
 var employeeLastName:string = "Ford"
 var employeeAge:number = 40
 
-type Customer = { firstName: string, lastName: string, active: boolean}
+type Customer = { firstName: string, lastName: string, active: boolean }
 
 // All the properties in the Customer should be added to the object
 var firstCustomer: Customer = {
